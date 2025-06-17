@@ -1,7 +1,7 @@
 baseURL = 'https://devpetrus.com/'
 languageCode = 'en-us'
 title = "Petrus' Webpage"
-theme = 'ananke'
+theme = 'lugo'
 
 [caches]
   [caches.images]
