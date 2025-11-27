@@ -3,6 +3,19 @@ languageCode = 'en-us'
 title = "Petrus' Webpage"
 theme = 'pugo'
 
+[menu]
+	[[menu.main]]
+		identifier = 'posts'
+		name = 'Posts'
+		url = '/posts'
+		weight = 10
+
+	[[menu.main]]
+		identifier = 'about'
+		name = 'About'
+		url = '/about'
+		weight = 20
+
 [caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+	[caches.images]
+		dir = ':cacheDir/images'
