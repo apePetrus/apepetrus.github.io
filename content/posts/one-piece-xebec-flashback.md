@@ -1,6 +1,5 @@
 +++
 date = '2025-11-27T22:13:56-03:00'
-draft = true
 title = "Thoughts on One Piece's Rocks Xebec Flashback"
 +++
 ## Thoughts on One Piece's Rocks Xebec Flashback
