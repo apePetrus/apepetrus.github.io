@@ -2,8 +2,6 @@
 date = '2025-11-27T22:13:56-03:00'
 title = "Thoughts on One Piece's Rocks Xebec Flashback"
 +++
-## Thoughts on One Piece's Rocks Xebec Flashback
-
 Dude, this thing is so great.
 Since June 23 this year with One Piece chapter 1152, we are having a huge plot on Rocks D. Xebec (or Rocks D. Jones now we know it), learning more of what happened on the God Valley incident, discovering why Garp is not so hypocrite as we thought even if he's a marine and more on Rocks' crew. I got my heart really warming on Rayleigh and Shakki relationship that I almost cried when he saved her. That remembers me when she told the Strawhat's crew that he is always looking for women, but we never saw Rayleigh having that kind of attitude - that is clearly Shakki being totally jealous about him!
 
