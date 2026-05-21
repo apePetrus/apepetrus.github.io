@@ -3,21 +3,21 @@ date = '2025-11-29T19:41:36-03:00'
 title = "Petrus' Website"
 +++
 
+## Hello! Welcome to my space
+
 ---
 
-## Hello! Welcome to my space
+My name is Petrus.
+
+This place is made for me to share my ideas, projects and many other things.
+
+I love Linux, manga, anime, programming, computers and games.
 
 ---
 
 ### Checkout [about page](about) for some facts about me!
 
 ### See [posts page](posts) for some blogging :D
-
----
-
-This place is made for me to share my ideas, projects and many other things.
-
-I love Linux, manga, anime, programming, computers and games.
 
 ---
 
@@ -38,3 +38,7 @@ I love Linux, manga, anime, programming, computers and games.
 	class="gif-appreciation"
 	width="150"
 >}}
+
+---
+
+## Recent posts
