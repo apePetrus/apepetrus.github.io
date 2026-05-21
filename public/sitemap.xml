@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-27T22:13:56-03:00</lastmod>
+    <lastmod>2025-11-29T19:41:36-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/i-hate-stranger-things/</loc>
+    <lastmod>2025-11-29T18:56:28-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-27T22:13:56-03:00</lastmod>
+    <lastmod>2025-11-29T18:56:28-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/one-piece-xebec-flashback/</loc>
     <lastmod>2025-11-27T22:13:56-03:00</lastmod>
