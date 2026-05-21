@@ -21,24 +21,4 @@ I love Linux, manga, anime, programming, computers and games.
 
 ---
 
-## Gif appreciation section
-
-{{< figure
-	src="onepiece.gif"
-	alt="One Piece Logo and Characters Gif"
-	link="#"
-	class="gif-appreciation"
-	width="150"
->}}
-
-{{< figure
-	src="linux-power.gif"
-	alt="Linux Power"
-	link="#"
-	class="gif-appreciation"
-	width="150"
->}}
-
----
-
 ## Recent posts
